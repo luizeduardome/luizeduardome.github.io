@@ -10,3 +10,15 @@ body{
 #dados{
     font-style: italic;
 }
+
+h3{
+    font-family: 'JetBrains Mono', monospace;
+    color: burlywood;
+}
+
+#linkedin{
+    background-color: whitesmoke;
+}
+#github{
+    background-color: whitesmoke;
+}
